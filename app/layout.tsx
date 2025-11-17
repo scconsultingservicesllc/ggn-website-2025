@@ -21,6 +21,10 @@ export const metadata: Metadata = {
   title: "Get Green NOI - Commercial Real Estate Energy Solutions",
   description:
     "Transform energy expenses into measurable profit centers with proven commercial real estate energy solutions.",
+  icons: {
+    icon: '/favicon.png',
+    apple: '/favicon.png',
+  },
     generator: 'v0.app'
 }
 
